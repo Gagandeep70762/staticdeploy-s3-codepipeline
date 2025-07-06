@@ -118,9 +118,9 @@ Example:
 ### 7️⃣ Live Website with Automated Update
 1. Visit your hosted website using the S3 Static Website Hosting Endpoint.
 2. Here’s a screenshot of the initial hosted website:
-![Initial Website](https://github.com/harshitsood0904/static-website-deploy-S3/blob/main/Images/Wesbite%20Hosted.png)
+![Initial Website](https://github.com/Gagandeep70762/staticdeploy-s3-codepipeline/blob/main/ss_S3/5_staticWebsite_Hosted.png)
 3. Next, go to your GitHub repository and make a code change — for example, update header text in index.html:
- !(https://github.com/Gagandeep70762/staticdeploy-s3-codepipeline/blob/main/ss_S3/4_CodePipeline.png)
+   [](https://github.com/Gagandeep70762/staticdeploy-s3-codepipeline/blob/main/ss_S3/4_CodePipeline.png)
 <!-- <h1>Welcome to My Cloud-Powered Website 🚀</h1> -->
 <!-- Updated from "Hello World!" -->
 4. Commit and push the changes:
