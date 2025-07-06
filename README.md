@@ -120,7 +120,7 @@ Example:
 2. Here’s a screenshot of the initial hosted website:
 ![Initial Website](https://github.com/Gagandeep70762/staticdeploy-s3-codepipeline/blob/main/ss_S3/5_staticWebsite_Hosted.png)
 3. Next, go to your GitHub repository and make a code change — for example, update header text in index.html:
-   ![](https://github.com/Gagandeep70762/staticdeploy-s3-codepipeline/blob/main/ss_S3/4_CodePipeline.png)
+   ![](https://github.com/Gagandeep70762/staticdeploy-s3-codepipeline/blob/main/ss_S3/7_automaytedToWebsite.png)
 <!-- <h1>Welcome to My Cloud-Powered Website 🚀</h1> -->
 <!-- Updated from "Hello World!" -->
 4. Commit and push the changes:
